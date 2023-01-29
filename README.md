@@ -1,7 +1,7 @@
 # hello-world - VERSION PAULA
 
 =======
-### En este repositorio, he añadido un fichero mediante la ayuda de los comandos para poder contestar a las preguntas de la práctica. El fichero con la solución se llama FicheroPract1_Paula.txt.
+### En este repositorio, he añadido un fichero mediante la ayuda de los comandos para poder contestar a las preguntas de la práctica. El fichero con la solución se llama FicheroPract1_Paula.md.
 
 #### Se ha entregado el enlace de este repositorio en Moodle. 
 
