@@ -70,6 +70,8 @@ Por último, el comando git checkout tiene varias posibles funciones. En primer 
 III.	Comandos adicionales
 
 1.	Git branch new_branch
+
+
 Este comando esta relacionado con el git checkout que se ha definido previamente. En este caso podemos crear una nueva rama a nuestro repositorio, y despues, mediante el git checkout nos podemos cambiar entre ramas. Adicionalmente, existe la posibilidad de poder visualizar las ramas existentes dentro del repositorio y saber en la que nos encontramos mediante el comando git branch. 
 
  ![image](https://user-images.githubusercontent.com/98013115/215350937-6862c88c-2cc6-4ec9-9f1a-20660056d151.png)
