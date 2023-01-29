@@ -1,10 +1,19 @@
-# hello-world
+# hello-world - VERSION PAULA
 
+<<<<<<< HEAD
 En este repositorio, he añadido un fichero mediante la ayuda de los comandos para poder contestar a las preguntas de la práctica. El fichero con la solución se llama FicheroPract1_Paula.txt.
 
 Se ha entregado el enlace de este repositorio en Moodle. 
 
 
+=======
+### En este repositorio, he añadido un fichero mediante la ayuda de los comandos para poder contestar a las preguntas de la práctica. El fichero con la solución se llama FicheroPract1_Paula.txt.
+
+#### Se ha entregado el enlace de este repositorio en Moodle. 
+
+
+---------------------------------------------------------------------------------------
+>>>>>>> 04b59589aafa15b97597f221e7c641181a1efd58
 Un repositorio para empezar a usar Github y Github Actions con Java
 
 ## ¿Como probar en el cloud?
